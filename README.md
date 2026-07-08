@@ -57,9 +57,9 @@ Place all dataset files inside the `/kaggle/input/competitions/ceip-ds-jecrc` fo
 
 ```
 /kaggle/input/competitions/ceip-ds-jecrc/
-├── train.csv
-├── test.csv
-└── sample_submission.csv
+├── train.parquet
+├── test.parquet
+└── sample_submission.parquet
 ```
 
 ---
